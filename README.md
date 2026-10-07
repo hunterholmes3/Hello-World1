@@ -18,6 +18,16 @@ This is a good example README.md file. For this sample project I analyzed baseba
 
 **Baseball Statistical Analysis from the 1986 MLB season**
 
+## Tools Used
+
+***Utilized <ins>excel</ins>, powerpoint, access, and python for this project***
+
+## Files Used
+
+*1986HitterData.xlsx*
+*Hunter Holmes - Resume.pdf*
+
+
 
 
 
