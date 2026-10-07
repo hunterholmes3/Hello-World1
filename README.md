@@ -24,7 +24,7 @@ This is a good example README.md file. For this sample project I analyzed baseba
 
 ## Files Used
 
-*1986HitterData.xlsx*
+*Project Data.xlsx*
 *Hunter Holmes - Resume.pdf*
 
 
