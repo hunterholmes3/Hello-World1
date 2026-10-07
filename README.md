@@ -1,2 +1,23 @@
-# Hello-World1
-My first practice repository
+# My first repository
+This is a good example README.md file. For this sample project I analyzed baseball statistics for the 1986 MLB season. I collected hit, run, walk, RBI data. As well as categorical data like league and division.
+
+## Table of Contents
+
+- [PROJECT TITLE](#Project-Title)
+- [DESCRIPTION](#Description)
+- [TOOLS USED](#Tools-Used)
+- [FILES USED](#Files-Used)
+- [HOW TO RUN PROGRAM](#How-To-Run-Program)
+- [ADDITIONAL INFORMATION](#Additional-Information)
+
+## Project Title
+
+*Hello World - My First Repository*
+
+## Description
+
+**Baseball Statistical Analysis from the 1986 MLB season**
+
+
+
+
